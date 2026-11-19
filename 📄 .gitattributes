@@ -1,9 +1,0 @@
-# Auto‑convert Windows line endings to LF on checkout
-* text=auto
-
-# Explicitly mark image/ binary files (optional but handy)
-*.jpg   binary
-*.png   binary
-*.gif   binary
-*.pdf   binary
-*.zip   binary
